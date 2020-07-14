@@ -16,7 +16,7 @@
         <property name="car.price" value="500000.0"></property>
     </bean>
 
-    <!--<bean id="p2" class="com.igeek.ch02.ref.Person">
+    <!--<bean id="p2" class="com.lkj.ch02.ref.Person">
         <property name="username" value="马汉"></property>
         <property name="age" value="66"></property>
         &lt;!&ndash; 通过ref属性或者ref标签实现关联关系的赋值 &ndash;&gt;
