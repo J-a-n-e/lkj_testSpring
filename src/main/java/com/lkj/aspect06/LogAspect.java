@@ -39,7 +39,7 @@ public class LogAspect {
     /**
      * 前置通知
      * 1.在方法执行之前执行的通知，前置通知使用 @Before 注解, 并将切入点表达式的值作为注解值.
-     * 2.切点表达式 @Before("execution(public int com.igeek.ch06.aop.aspect.CountImpl.add(int,int))")
+     * 2.切点表达式 @Before("execution(public int com.lkj.ch06.aop.aspect.CountImpl.add(int,int))")
      * 3.切点表达式省略写法：
      * 第一个* ： 匹配任意访问权限 任意返回值
      * 同包路径下，可以省略包名
